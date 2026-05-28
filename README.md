@@ -9,10 +9,12 @@ Welcome to my professional data analytics portfolio. This repository encapsulate
 
 | Task | Project Title | Description | Tech Stack | Project Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **01** | Data Immersion & Wrangling | Focused on handling missing data, normalization, and preparing raw datasets for analysis. | Python, Pandas | [View Repo](https://github.com/Dikesh123-eng/Data-Immersion-and-Wrangling) |
-| **02** | EDA & Business Intelligence | Identifying trends, correlations, and outliers to drive business decisions. | Matplotlib, Seaborn | [View Repo](https://github.com/Dikesh123-eng/Exploratory-Data-Analysis-EDA-and-Business-Intelligence-task-2-) |
-| **03** | Interactive Visualization | Creating professional-grade dashboards for stakeholder reporting. | Power BI / Tableau | [View Repo](https://github.com/Dikesh123-eng/TASK_3) |
-| **04** | Advanced Analysis | Final stage analysis incorporating statistical modeling and final insights. | Scikit-Learn, SQL | [View Repo](https://github.com/Dikesh123-eng/task4) |
+| **01** | Data Immersion & Wrangling | Focused on handling missing data, normalization, and preparing raw datasets for analysis. | Python, Pandas | [View Repo](https://github.com/choudharyaakash7575-ops/Data-Immersion-Wrangling) |
+| **02** | EDA & Business Intelligence | Identifying trends, correlations, and outliers to drive business decisions. | Matplotlib, Seaborn | [View Repo]
+.(https://github.com/choudharyaakash7575-ops/Task-2).|
+| **03** | Interactive Visualization | Creating professional-grade dashboards for stakeholder reporting. | Power BI / Tableau | [View Repo|
+(https://github.com/choudharyaakash7575-ops/Task3)
+| **04** | Advanced Analysis | Final stage analysis incorporating statistical modeling and final insights. | Scikit-Learn, SQL | [View Repo](https://github.com/choudharyaakash7575-ops/task-4-apex-planet) |
 
 ---
 
